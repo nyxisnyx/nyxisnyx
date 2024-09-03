@@ -5,7 +5,7 @@
 - 📫 How to reach me: coming soon
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Ever since I learned to crochet, I've taken to doing it while I walk to and from work. I love keeping my hands busy.
-- ✨ Proficient with: HTML, CSS, SASS, Tailwind, JavaScript, TypeScript, React, AnimationCSS, AnimationJS, PHP
+- ✨ Proficient with: HTML, CSS, SASS, Tailwind, JavaScript, TypeScript, React, AnimationCSS, AnimationJS, PHP, MySQL
 - 💡 Currently learning: Bootstrap, SVG manipulation, Svelte
 - 🔭 Planning to learn: Three.JS, GraphQL, DrawQL, SQLite, Unity Web, WebGL, C#, and many more.
 - 🪄 Other skills: Photoshop, InDesign, Canva, Office Suite, technical & literary translation, Notion
