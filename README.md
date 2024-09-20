@@ -8,6 +8,7 @@
 - 💡 Currently learning: SVG manipulation, Svelte, Flutter
 - 🔭 Planning to learn: Three.JS, GraphQL, DrawQL, SQLite, Unity Web, WebGL, C#, React Native, and many more.
 - 🪄 Other skills: Photoshop, Illustrator, Canva, Office Suite, technical & literary translation, Notion
+- ⌨️ Currently working on: Project Game Master (a Choose Your Own Adventure web game), Dragon Keeper (an idle game à la Cookie Clicker), Project To Be Read (an app to manage your books to read with a few other features)
 
 <!---
 nyxisnyx/nyxisnyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
